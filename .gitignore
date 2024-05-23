@@ -15,3 +15,6 @@ img_cache
 
 # Ignora el archivo background.jpg
 background.jpg
+
+#COMO IGNORAR LA CARPETA NODE MODULES
+node_modules/
