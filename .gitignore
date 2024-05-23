@@ -1,0 +1,17 @@
+* se utiliza como una coincidencia comodín.
+/ se usa para ignorar las rutas relativas al archivo .gitignore.
+# es usado para agregar comentarios
+
+Ejemplos de elementos que se pueden agregar en .gitignore
+
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Ignora la carpeta img_cache
+img_cache
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora el archivo background.jpg
+background.jpg
